@@ -14,9 +14,11 @@
     "lib"
   ],
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org"
   },
   "scripts": {
     "test": "node ./__tests__/cli.test.js"
-  }
+  },
+  "gitHead": "a22daf7d5053d350b87252146e6cefae07c79d9b"
 }
